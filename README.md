@@ -24,8 +24,6 @@ LCOS is not a community project.  The King has total control, both technological
 
 LCOS is in early development.
 
-[GitHub Pages](https://pages.github.com/)
-
 [The Lunduke Journal Forum](https://forum.lunduke.com/) is the exclusive place to ak questions, provide suggestions, report issues, or talk with other LCOS users.  To keep trolls away, [this forum](https://forum.lunduke.com/) is only available to [Lunduke Journal subscribers](https://lunduke.com/).
 
 ## Screenshots
