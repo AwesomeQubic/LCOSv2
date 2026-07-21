@@ -14,7 +14,7 @@ The Lunduke Computer Operating System (LCOS) adheres to a core set of ideas:
 - So many forced Rust Clones.
 - Using wayland only
 
-LCOS is built on top of Devuan (a high quality fork of Debian, which removes Systemd), and includes carefully selected software to adhere to those core ideals (including the stripped-down Brave Origin as the default web browser).
+LCOS is built on top of NixOs (a high quality operating system), and includes carefully selected software to adhere to those core ideals.
 
 ## The Lunduke Computer Operating System is a Monarchy.
 
