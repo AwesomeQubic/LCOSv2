@@ -30,11 +30,3 @@ As such, source code deviations, from upstream projects, is kept to an absolute 
 LCOS is in early development.  Expect bugs.
 
 [The Lunduke Journal Forum](https://forum.lunduke.com/) is the exclusive place to ask questions, provide suggestions, report issues, or talk with other LCOS users.  To keep trolls away, [this forum](https://forum.lunduke.com/) is only available to [Lunduke Journal subscribers](https://lunduke.com/).
-
-## Screenshots
-
-![](screenshots/lcos-01-shot3.png)
-
-![](screenshots/lcos-01-shot1.png)
-
-![](screenshots/lcos-01-shot4.png)

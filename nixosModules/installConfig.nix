@@ -10,8 +10,7 @@
         lcos.url = "github:AwesomeQubic/lcosv2";
       };
       outputs = inputs\@{ self, nixpkgs, lcos, ... }: {
-        # NOTE: '${options.networking.hostName.default}' is the default hostname
-        nixosConfigurations.${options.networking.hostName.default} = nixpkgs.lib.nixosSystem {
+        nixosConfigurations.${options.networking.hostName} = nixpkgs.lib.nixosSystem {
           modules = [ 
             ./configuration.nix
             lcos.nixosModules.default
@@ -34,7 +33,7 @@
         ];
 
     $bootLoaderConfig
-      # networking.hostName = "${options.networking.hostName.default}"; # Define your hostname.
+      # networking.hostName = "${options.networking.hostName}"; # Define your hostname.
 
       # Configure network connections interactively with nmcli or nmtui.
       networking.networkmanager.enable = true;

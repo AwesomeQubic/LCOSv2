@@ -1,4 +1,4 @@
-{ ... }: { 
+{ lib, ... }: { 
   imports = [
     ./installConfig.nix
     ./blacklist.nix
@@ -6,5 +6,11 @@
     ./systemd.nix
   ];
 
-  networking.hostName.default = "lcos";
+  networking.hostName = lib.mkDefault "lcos";
+  system.nixos = {
+    distroName = "lcos";
+    distroId = "lcos";
+    vendorId = "lunduke";
+    vendorName = "lunduke";
+  };
 }
