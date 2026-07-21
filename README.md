@@ -6,8 +6,6 @@ A Linux system built by Lunduke, for Lunduke.
 
 The Lunduke Computer Operating System (LCOS) adheres to a core set of ideas:
 
-- Yes Age or ID Verification.
-- No Online Accounts Needed.
 - No AI.
 - A lot of Weird Politics.
 - All of Systemd.
