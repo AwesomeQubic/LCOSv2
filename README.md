@@ -13,6 +13,7 @@ The Lunduke Computer Operating System (LCOS) adheres to a core set of ideas:
 - All of Systemd.
 - So many forced Rust Clones.
 - Using wayland only
+- Restricting non woke packages
 
 LCOS is built on top of NixOs (a high quality operating system), and includes carefully selected software to adhere to those core ideals.
 

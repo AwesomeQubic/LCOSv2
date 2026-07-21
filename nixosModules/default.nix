@@ -1,13 +1,6 @@
-{ config, ... }: { 
+{ ... }: { 
   imports = [
-    ./installConfig
+    ./installConfig.nix
+    ./blacklist.nix
   ];
-
-  options = {
-
-  };
-  
-  config = {
-
-  };
 }
