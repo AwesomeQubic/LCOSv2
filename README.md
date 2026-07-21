@@ -6,13 +6,13 @@ A Linux system built by Lunduke, for Lunduke.
 
 The Lunduke Computer Operating System (LCOS) adheres to a core set of ideas:
 
-- No Age or ID Verification.
+- Yes Age or ID Verification.
 - No Online Accounts Needed.
 - No AI.
-- No Weird Politics.
-- No Systemd.
-- No Forced Rust Clones.
-- Modern Tech.  90s UI.
+- A lot of Weird Politics.
+- All of Systemd.
+- So many forced Rust Clones.
+- Using wayland only
 
 LCOS is built on top of Devuan (a high quality fork of Debian, which removes Systemd), and includes carefully selected software to adhere to those core ideals (including the stripped-down Brave Origin as the default web browser).
 
